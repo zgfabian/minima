@@ -22,7 +22,7 @@ title: Adamante notare
 # email: my-email@example.com
 description: Adamante notare. Ad perpetuam rei memoriam. Ad astra per asperas.
 
-baseurl: "/minima" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  zgfabian
